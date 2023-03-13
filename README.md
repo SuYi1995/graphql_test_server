@@ -19,7 +19,3 @@ After making changes run the below command to auto generate the `models` and `re
 ```
 gqlgen generate
 ```
-
-## Now, run the server and goto http://localhost:8080 to play with graphql.
-
-References: https://gorm.io/, https://graphql.org/learn/
